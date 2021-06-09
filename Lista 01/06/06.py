@@ -1,5 +1,5 @@
 #Questao 06
-#Por: Diego Rosas
+#Por: Diego Rosas.
 
 print('-----------------------------------------------------------------------') #gambiarra para pular uma linha
 diasDaSemana = ['domingo','segunda','terça','quarta','quinta','sexta','sabado'] #Array com os dias da semana com indeices de 0 até 6
