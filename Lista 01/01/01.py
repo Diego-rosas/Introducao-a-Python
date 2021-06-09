@@ -1,4 +1,5 @@
 #Questão 01
+#Por: Diego Rosas
 
 print("--------------CALCULADORA DE SEGUNDOS---------------------") #titulo inventado para o programa
 qtDias = int(input("Digite uma quantidade de dias: ")) #variavel que grava a quantidade de dias recebida pela entrada
