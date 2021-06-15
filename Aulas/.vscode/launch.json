@@ -1,0 +1,19 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "cwd": "c:\\Users\\Diego\\Google Drive (ufpebackup@gmail.com)\\UFPE\\2020.2\\INTRODUÇÃO A PYTHON EM ENGENHARIA\\Introducao-a-Python\\Aulas",
+      "environment": [],
+      "program": "c:\\Users\\Diego\\Google Drive (ufpebackup@gmail.com)\\UFPE\\2020.2\\INTRODUÇÃO A PYTHON EM ENGENHARIA\\Introducao-a-Python\\Aulas\\build\\Debug\\outDebug",
+      "internalConsoleOptions": "openOnSessionStart",
+      "MIMode": "",
+      "miDebuggerPath": "",
+      "externalConsole": false
+    }
+  ]
+}
