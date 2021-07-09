@@ -11,8 +11,8 @@
       "environment": [],
       "program": "c:\\Users\\Diego\\Google Drive (ufpebackup@gmail.com)\\UFPE\\2020.2\\INTRODUÇÃO A PYTHON EM ENGENHARIA\\Introducao-a-Python\\Aulas\\build\\Debug\\outDebug",
       "internalConsoleOptions": "openOnSessionStart",
-      "MIMode": "",
-      "miDebuggerPath": "",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
       "externalConsole": false
     }
   ]
