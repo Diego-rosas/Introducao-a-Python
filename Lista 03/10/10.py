@@ -21,7 +21,7 @@ random.shuffle(embaralha_list2)                 #embaralha a lista 2
 while True:                                         #loop principal
     print('='*45)                                   #começo do programa
     print('     SOTEIO DA MEGA SENA DA VIRADA!')    #titulo
-    print('='*45)
+    print('='*45)                                   #Imprime 45x o '='
     for i in range(5):                            #loop para sortear os numeros das dezenas 
         x = random.choice(embaralha_list1)        #A variavel X vai receber o primeiro numero da dezena
         y = random.choice(embaralha_list2)        #A variavel y vai receber o segundo numero da dezena 
