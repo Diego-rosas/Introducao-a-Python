@@ -18,7 +18,6 @@ def enviaemail(corpo, recebeEmail):
 
     #2- CONSTRUIR O EMAIL TIPO MIME
     #corpo = '' - enivado via parametro
-
     #Montando o e-amil
     email_msg = MIMEMultipart()
     email_msg['From'] = 'enviae7@gmail.com'
