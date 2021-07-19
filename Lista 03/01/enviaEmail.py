@@ -8,7 +8,7 @@ def enviaemail(corpo, recebeEmail):
     host = 'smtp.gmail.com'
     port = '587'
     login = 'enviae7@gmail.com'
-    senha = 'seupassword'
+    senha = '#enviaEmail7' 
   
     server = smtplib.SMTP(host,port)
     server.ehlo()
