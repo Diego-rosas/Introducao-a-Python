@@ -8,14 +8,10 @@ def enviaemail(corpo, recebeEmail):
     host = 'smtp.gmail.com'
     port = '587'
     login = 'enviae7@gmail.com'
-<<<<<<< Updated upstream
-    senha = '#enviaEmail7' 
-=======
 
     with open('01\senha.txt', 'r', encoding='utf-8') as arquivo:
         senha = arquivo.read() 
->>>>>>> Stashed changes
-  
+
     server = smtplib.SMTP(host,port)
     server.ehlo()
     server.starttls()
